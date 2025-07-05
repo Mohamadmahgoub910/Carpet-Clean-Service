@@ -10,11 +10,11 @@ namespace CarpetCleanService3July2025
     {
         static void Main(string[] args)
         {
-            double rate = 0.15;
-            Console.WriteLine($"Tax Rate: {rate:P}");
+            //double rate = 0.15;
+            //Console.WriteLine($"Tax Rate: {rate:P}");
 
-            int population = 1000000;
-            Console.WriteLine($"Population: {population:N0}");
+            //int population = 1000000;
+            //Console.WriteLine($"Population: {population:N0}");
 
 
              double priceSmallRoom = 25.0;
